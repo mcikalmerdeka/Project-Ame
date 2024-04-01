@@ -1,0 +1,1 @@
+I am interested in creating a personal assistant using LLMs, and this repository serves as documentation of the progress and learning in the development of the project.
